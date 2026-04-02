@@ -18,7 +18,7 @@ I'm a **Solutions Engineering Lead** at [LeanLaw](https://leanlaw.co) with 2.5+ 
 - 🔧 Comfortable across the full stack — Python, JavaScript, TypeScript, Angular, React
 - 🤖 I love building bots, automation, and tools that make repetitive things disappear
 - 🧩 Systems thinker — I want to understand the whole before I fix the part
-- 📚 Studying CS formally while working full-time (yes, both at once)
+- 📚 Studying Software Engineering (C# track) formally while working full-time (yes, both at once)
 - 💼 My professional work lives on a private org repo — happy to discuss it in interviews
 
 ---
