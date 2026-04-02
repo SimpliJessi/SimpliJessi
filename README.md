@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║          hey, I'm Jessi  ·  she/them                ║
+║          hey, I'm Jessi  ·  she/them                 ║
 ║     solutions engineer · builder · problem solver    ║
 ╚══════════════════════════════════════════════════════╝
 ```
