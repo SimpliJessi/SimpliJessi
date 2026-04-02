@@ -51,7 +51,7 @@ I'm a **Solutions Engineering Lead** at [LeanLaw](https://leanlaw.co) with 2.5+ 
 |---|---|---|
 | [PyCalc Pro](https://github.com/SimpliJessi/pycalc-pro) | Professional CLI calculator with a recursive-descent parser, 30+ scientific functions, persistent history, and a Rich terminal UI | Python |
 | [Random Encounter Generator](https://github.com/SimpliJessi/RandomEncounterGenerator) | CLI tool for tabletop GMs — generates CR-balanced D&D encounters with narrative flavor, environment filtering, and random events | Python |
-| [Promptopia](https://github.com/SimpliJessi/promptopia) | Full-stack AI prompt sharing platform with Google OAuth, full CRUD, and search | Next.js, MongoDB, Tailwind |
+| [Promptopia](https://github.com/SimpliJessi/mypromptopia) | Full-stack AI prompt sharing platform with Google OAuth, full CRUD, and search | Next.js, MongoDB, Tailwind |
 | [World Explorer](https://github.com/SimpliJessi/World-Explorer) | Interactive SVG world map that fetches live country data from the World Bank API | Angular, TypeScript |
 | [Blackwater Requiem Admin](https://github.com/SimpliJessi/Blackwater-Requiem-Admin) | Full admin bot for a Discord roleplay server — moderation, automation, and custom commands | Python, discord.py |
 
