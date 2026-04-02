@@ -60,7 +60,6 @@ I'm a **Solutions Engineering Lead** at [LeanLaw](https://leanlaw.co) with 2.5+ 
 ### 📬 find me elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mccullough-jessi/)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@simpli.jessi)
 
 ---
 
