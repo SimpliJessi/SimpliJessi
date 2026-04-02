@@ -45,7 +45,7 @@ I'm a **Solutions Engineering Lead** at [LeanLaw](https://leanlaw.co) with 2.5+ 
 
 ---
 
-### 📌 things i've built
+### 📌 things I've built
 
 | project | what it does | stack |
 |---|---|---|
@@ -54,6 +54,7 @@ I'm a **Solutions Engineering Lead** at [LeanLaw](https://leanlaw.co) with 2.5+ 
 | [Promptopia](https://github.com/SimpliJessi/mypromptopia) | Full-stack AI prompt sharing platform with Google OAuth, full CRUD, and search | Next.js, MongoDB, Tailwind |
 | [World Explorer](https://github.com/SimpliJessi/World-Explorer) | Interactive SVG world map that fetches live country data from the World Bank API | Angular, TypeScript |
 | [Whispers in the Dark Bot](https://github.com/SimpliJessi/whispers-in-the-dark-bot) | Production Discord bot (~5,800 LOC) — virtual economy, tiered moderation, verification workflows, and 40+ slash commands across 14 modular cogs | Python, discord.py |
+| [RPG Productivity App](https://github.com/SimpliJessi/rpg-productivity-app) |  Turn your daily tasks into an RPG adventure — quests, habits, mood tracking & a character sheet that grows with you. | Python, CustomTkinter |
 
 ---
 
