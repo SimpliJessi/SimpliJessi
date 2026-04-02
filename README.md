@@ -53,7 +53,7 @@ I'm a **Solutions Engineering Lead** at [LeanLaw](https://leanlaw.co) with 2.5+ 
 | [Random Encounter Generator](https://github.com/SimpliJessi/RandomEncounterGenerator) | CLI tool for tabletop GMs — generates CR-balanced D&D encounters with narrative flavor, environment filtering, and random events | Python |
 | [Promptopia](https://github.com/SimpliJessi/mypromptopia) | Full-stack AI prompt sharing platform with Google OAuth, full CRUD, and search | Next.js, MongoDB, Tailwind |
 | [World Explorer](https://github.com/SimpliJessi/World-Explorer) | Interactive SVG world map that fetches live country data from the World Bank API | Angular, TypeScript |
-| [Blackwater Requiem Admin](https://github.com/SimpliJessi/Blackwater-Requiem-Admin) | Full admin bot for a Discord roleplay server — moderation, automation, and custom commands | Python, discord.py |
+| [Whispers in the Dark Bot](https://github.com/SimpliJessi/whispers-in-the-dark-bot) | Production Discord bot (~5,800 LOC) — virtual economy, tiered moderation, verification workflows, and 40+ slash commands across 14 modular cogs | Python, discord.py |
 
 ---
 
